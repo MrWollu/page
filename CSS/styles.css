@@ -1,0 +1,50 @@
+/*********************TEG SELECTORS***********************/
+body {
+  background-color: aliceblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+td {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+tr {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+li {
+  font-family: Helvetica, Arial, sans-serif;
+}
+/*
+img:hover {
+  background-color:red;
+}
+*/
+/*********************ID SELECTORS***********************/
+#heading {
+  font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+  font-size: 24px;
+  font-style: normal; font-variant: normal; font-weight: 700;
+  line-height: 26.4px;
+  color: #66BFBF;
+}
+/*********************CLASS SELECTORS***********************/
